@@ -24,7 +24,7 @@ public class VariableTester {
 		String s = new String("Hello");
 		int len = s.length();
 		System.out.println("len:"+len);
-		System.out .
+		
 	}
 
 }
