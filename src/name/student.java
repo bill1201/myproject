@@ -7,7 +7,9 @@ public class student {
 	int english;
 	int math;
 	int chinese;
+	public student(){
 
+	}	
 	public void print() {
 		System.out.println(english + "\t" + math + "\t" + chinese);
 	}
@@ -20,7 +22,7 @@ public class student {
 	}
 	public student(String name){
 		this.name = name;
-				
+	
 		
 	}
 
